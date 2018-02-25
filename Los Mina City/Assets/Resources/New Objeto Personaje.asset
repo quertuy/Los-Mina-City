@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b22d26de032e3c645b47f82b3df4f7f2, type: 3}
+  m_Name: New Objeto Personaje
+  m_EditorClassIdentifier: 
+  id: Punch
+  h_prefab: {fileID: 1039740683684170, guid: 3360c5d2b14f05847970e559db6a09a4, type: 2}
+  m_prefab: {fileID: 1039740683684170, guid: 3360c5d2b14f05847970e559db6a09a4, type: 2}

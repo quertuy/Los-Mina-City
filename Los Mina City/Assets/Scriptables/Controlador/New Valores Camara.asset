@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24e2dc73ba0b32d4a82d6bbb0ecac46c, type: 3}
+  m_Name: New Valores Camara
+  m_EditorClassIdentifier: 
+  suavizadoGiro: 0.1
+  velMovimiento: 9
+  velApuntar: 25
+  velRotY: 3
+  velRotX: 3
+  anguloMin: -35
+  anguloMax: 35
+  normalZ: -3
+  normalX: 0.3
+  apuntarZ: -1
+  apuntarX: 0.8
+  normalY: 1.75
+  agachadoY: 1.1
+  adaptVel: 9

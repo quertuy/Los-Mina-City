@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a10bd4421835e234b960275bf6b0d309, type: 3}
+  m_Name: Ladron
+  m_EditorClassIdentifier: 
+  id: Ladron
+  pelo: 0
+  ojos: 0
+  obj: {fileID: 11400000, guid: 2d8e92ae8e508b14e8bdb4296b014a18, type: 2}

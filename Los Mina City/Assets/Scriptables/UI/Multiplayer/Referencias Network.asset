@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46d30f9c66be08e4294850fe191ab2ef, type: 3}
+  m_Name: Referencias Network
+  m_EditorClassIdentifier: 
+  personajeLocal:
+    photonID: 1
+    instancia: {fileID: 0}
+    gestorEstado: {fileID: 0}
+  padreReferencias: {fileID: 0}
+  localPos: {fileID: 11400000, guid: 531d72e81c942104fadfe6362fbbbfac, type: 2}
+  loobySpawnPos: {fileID: 11400000, guid: bd7dba4b3e6dc084fa3c4faced50183d, type: 2}

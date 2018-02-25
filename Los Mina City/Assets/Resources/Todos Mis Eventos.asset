@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8108ca626f8a206498407b5e09143b4c, type: 3}
+  m_Name: Todos Mis Eventos
+  m_EditorClassIdentifier: 
+  cerrarAnuniante: {fileID: 11400000, guid: cee1d6e38d2e910478bd134325c5d8ce, type: 2}
+  abrirAnunciante: {fileID: 11400000, guid: b25d2bc788dd0cb459c585d95c819930, type: 2}
+  conectarAServidor: {fileID: 11400000, guid: 489495a5bdec548409896870ad4ec558, type: 2}
+  crearSala: {fileID: 11400000, guid: 3e53013d66dd551439fecaff4f76a693, type: 2}
+  entrarSala: {fileID: 11400000, guid: 4f7ddb82a41f3e744b2c4bb1c77cf0ca, type: 2}
+  falloConeccion: {fileID: 11400000, guid: 53ac65db0a7737441994140ffd49d12e, type: 2}
+  enInventario: {fileID: 0}
+  inicioJuego: {fileID: 0}
+  escenaAditiva: {fileID: 0}
+  escenaUno: {fileID: 11400000, guid: 2c1db5d43d4a2ce4e936ed161d191232, type: 2}
+  cargarUnaEscena: {fileID: 0}
+  localPlayer: {fileID: 11400000, guid: e35bfffe4d75e0545912a025ecfea5cf, type: 2}
+  jugar: {fileID: 11400000, guid: 865640d37249d4343b2a50522bce5dd4, type: 2}
+  listo: {fileID: 11400000, guid: d4492a121fce30b4ab21428706809623, type: 2}
+  presionoListo: {fileID: 11400000, guid: 704f879c76423df44ac2c57b7988d0fb, type: 2}
+  esMasterClient: {fileID: 11400000, guid: 1223d4e186b821c49b6186f9157d24c1, type: 2}
+  EnPartidaMultiplayerEnJuego: {fileID: 11400000, guid: 1ddd30f214abedd4b8ed7a269322a3d2,
+    type: 2}

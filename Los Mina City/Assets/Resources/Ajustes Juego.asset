@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ade8e645d66ef40b3d0c3735cbe35b, type: 3}
+  m_Name: Ajustes Juego
+  m_EditorClassIdentifier: 
+  gestorRecursos: {fileID: 11400000, guid: 87ea3bb9a1d401a4284869fdf8de2af3, type: 2}
+  version: 2.1
+  conectado: 0
+  perfilJugador:
+    nombreUsuario: 
+    dinero: {fileID: 11400000, guid: b7e718723cc78384cba3ec0c53717476, type: 2}
+    equipo: {fileID: 11400000, guid: 80f66e0fe4524844d905b354f8dd5741, type: 2}
+    marcara: {fileID: 11400000, guid: 24ac8ca6c0aa9a54cbe571686c9cca4a, type: 2}
+    armaPrincipal: {fileID: 11400000, guid: a1e895687eec5fa4ea42caf2e65bf79c, type: 2}
+    armaSecundaria: {fileID: 11400000, guid: c28af77dda553de4582394b13423d65e, type: 2}
+    esMujer: {fileID: 11400000, guid: bd4d535e3cd77fd4f9356e7c61bbbdba, type: 2}
+    itemsComprados:
+    - Nada
+    - M4
+    - Glock
+    - Pelo
+    - Gafas
+  uiPerfilJugador:
+    nombreUsuario: 
+    dinero: {fileID: 0}
+    equipo: {fileID: 0}
+    marcara: {fileID: 0}
+    armaPrincipal: {fileID: 0}
+    armaSecundaria: {fileID: 0}
+    esMujer: {fileID: 0}
+    itemsComprados: []
+  resetearValores: 1
+  uIAjustes:
+    salaActual: {fileID: 0}
+    salaCambiada: {fileID: 0}
+    tipoSala: {fileID: 0}
+    descripcionSala: {fileID: 0}
